@@ -6,13 +6,15 @@ Simple Java and Python programs showing how arbitrary Python programs can be exe
 Requirements
 ------------
 
-Tested with Java 8 and Python 3.
+Tested with Java 8, Python 3, and Py4J 0.8.2.
 
 
 Installation
 ------------
 
-Import the project in Eclipse.
+1. Install py4j 0.8.2 globally or in a virtualenv (pip install py4j).
+2. Configure the Python interpreter in Eclipse.
+3. Import the project py4j-arbitrary-python project in Eclipse.
 
 
 How to run
